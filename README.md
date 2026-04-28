@@ -27,7 +27,11 @@ AI Life OS is an **all-in-one productivity web application** that helps users ma
 
 ## 🖼️ Preview
 
-> Add screenshots here (recommended)
+> <img width="1600" height="852" alt="Screenshot 2026-04-29 013844" src="https://github.com/user-attachments/assets/c450b51e-512b-494a-8f59-4458a6d4b6d8" />
+> <img width="1600" height="852" alt="Screenshot 2026-04-29 014243" src="https://github.com/user-attachments/assets/f020a735-1d74-4e80-9265-033b7c0f789d" />
+> <img width="1600" height="852" alt="Screenshot 2026-04-29 014500" src="https://github.com/user-attachments/assets/699df042-a762-4238-931b-fd417444825a" />
+> <img width="255" height="534" alt="Screenshot 2026-04-29 014417" src="https://github.com/user-attachments/assets/966b8d38-3da5-4004-abd4-f4aa2aa30ebf" />
+
 
 * Dashboard
 * Planner
@@ -139,7 +143,7 @@ AI Life OS is an **all-in-one productivity web application** that helps users ma
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-life-os.git
+git clone https://github.com/rumaysaabdulbariscet-collab/ai-life-os.git
 cd ai-life-os
 ```
 
