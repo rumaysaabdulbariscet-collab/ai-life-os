@@ -3,8 +3,8 @@
 ### 🚀 AI-Powered Productivity Dashboard
 
 AI Life OS is an **all-in-one productivity web application** that helps users manage their **tasks, projects, deadlines, and performance**, enhanced with an integrated **AI Assistant**.
-🚀 Live Demo: https://ai-life-os-spebsggr9ng6anmh7imddh.streamlit.app/
 
+🚀 Live Demo: https://ai-life-os-spebsggr9ng6anmh7imddh.streamlit.app/
 👉 It combines:
 
 * 📊 Data visualization
